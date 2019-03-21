@@ -20,7 +20,12 @@ Reference Document : https://docs.google.com/presentation/d/1FWKWbQKrXF7dZ-Qj8ig
 * Data for EV Charging is unorganized and less meaningful 
 
 
-## Goals of the Project
+## The Project
+
+Enertia is focused on developing an open source charging platform built on top of the ThreeFold platform.
+Based in the United Arab Emirates focused on promoting sustainable and energy efficiency by applying threefold technology to improve energy storage, distribution and scalability. 
+
+Part of the [atwg.tech](https://atwg.tech) incubator.
 
 * Live Maps with RealTime Charge Point Status → Atleast we should be able to integrate with Top Providers in the first release(DEWA, GreenParking, Tesla )
 * Try to come up with a Universal Charging Card / payment / token mechanism that can apply to all Charging Points.
@@ -42,3 +47,11 @@ Reference Document : https://docs.google.com/presentation/d/1FWKWbQKrXF7dZ-Qj8ig
 * We will need to write a Smart contract specifically for this over the blockchain. 
 
 The most challenging part would be the technical Interconnects between OEMs and us!  
+
+## Key Aspects
+
+- Enertia EVToken 1-1 relation with TF Token
+- Target 500 nr of charging stations in Dubai
+- OEM partnerships (Car Manufacturers)
+- Governmental support. 
+
