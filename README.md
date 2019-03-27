@@ -1,4 +1,4 @@
-# [Enertia.io](enertia.io)
+# [Enertia.io](http://www.enertia.io)
 Decentralized Electric Vehicle Charging Platform
 
 [Slide Deck](https://docs.google.com/presentation/d/1FWKWbQKrXF7dZ-Qj8igWW0MToMKeRr4tCUqdrgavMvk)
