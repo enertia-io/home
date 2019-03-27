@@ -1,5 +1,3 @@
-# home
-
 # enertia.io
 Decentralized Electric Vehicle Charging Platform
 
@@ -54,4 +52,55 @@ The most challenging part would be the technical Interconnects between OEMs and 
 - Target 500 nr of charging stations in Dubai
 - OEM partnerships (Car Manufacturers)
 - Governmental support. 
+
+### Owner: 
+* [Kyle Weber](https://www.linkedin.com/in/kyle-weber-51b7bba5/)
+* [Adnan Fatayerji](https://github.com/AdnanFatayerji)
+
+### Team:
+* [Kyle Weber](https://www.linkedin.com/in/kyle-weber-51b7bba5/)
+* [Adnan Fatayerji](https://www.linkedin.com/in/adnansf/) - Strategy Advisor
+* [Ahmed Siddique](https://www.linkedin.com/in/ahmed-siddique-a4126a98/)
+* [Abdul Rehman Rajput](https://www.linkedin.com/in/arrajput/)
+* [Ahmed Samir Elbermbali](https://www.linkedin.com/in/ahmedelbermbali/)
+* [Kristof de Spiegeleer](https://www.linkedin.com/in/despiegk/) - Tech Advisor
+* [Nickolay Babenko](https://www.linkedin.com/in/babenkonickolay/), 
+* [Neerjai Mathur](https://www.linkedin.com/in/neeraj-mathur-04215137/), 
+* [Gloria Anne](https://www.linkedin.com/in/gloria-anne-c/),
+
+
+### Website:
+
+[http://enertia.io](http://enertia.io)
+
+Staging: [www2.enertia.io](https://www2.enertia.io/)
+
+### Wiki:
+
+[wiki.enertia.io](http://wiki.enertia.io/)
+
+staging: [wiki2.enertia.io](http://wiki2.enertia.io)
+
+### FreeFlowPages
+https://freeflowpages.com/s/enertia/
+
+### Gitea
+https://docs.grid.tf/Enertia/
+
+### Google Drive
+https://drive.google.com/drive/u/2/folders/12x83Qp2-Zk5cWtryCjRbjhiBPDUtuqzf
+
+## Repos
+
+### [Home](https://github.com/enertia-io/home)
+Home of the organization
+
+### [www_enertia_tech](https://github.com/enertia-io/www_enertia_tech)
+The Enertia Decentralized Platform: [www.enertia.tech](https://www.enertia.tech) 
+
+### [www_enertia_io](https://github.com/enertia-io/www_enertia_io)
+Landing page website: [www.enertia.io](https://www.enertia.io) 
+
+### [info](https://github.com/enertia-io/info)
+Organization wiki. Hosted as [wiki.enertia.io](http://wiki.enertia.io/)
 
