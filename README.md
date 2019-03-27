@@ -1,7 +1,6 @@
 # enertia.io
 Decentralized Electric Vehicle Charging Platform
-
-Reference Document : https://docs.google.com/presentation/d/1FWKWbQKrXF7dZ-Qj8igWW0MToMKeRr4tCUqdrgavMvk/edit?usp=sharing
+[Slide Deck](https://docs.google.com/presentation/d/1FWKWbQKrXF7dZ-Qj8igWW0MToMKeRr4tCUqdrgavMvk)
 
 ## What are we using to develop the platform ?
 
