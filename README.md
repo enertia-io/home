@@ -5,7 +5,7 @@ Decentralized Electric Vehicle Charging Platform
 
 ## What are we using to develop the platform ?
 
-[Technology Stack / Code here](https://github.com/enertia-io/www_enertia_io)
+[Technology Stack / Code here](https://github.com/enertia-io/www_enertia_tech)
 
 
 ## Challenges / Problems
